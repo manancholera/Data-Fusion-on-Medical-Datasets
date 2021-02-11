@@ -1,13 +1,10 @@
 # Data-Fusion-on-Medical-Datasets
 
-Dataset: https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset
-.
+Implementing PCA on heart and kidney diseases dataset to find common symptoms. 
+Making use of different Machine Learning Algorithms for Descriptive Analysis and comparing key performance metrics.
+Also got a chance to write a research paper and present it in ICRTST 2019 conference held in Chennai, India.
+
 Language used: Python
-.
-Description: In this project, Python is used for exploratory analysis about three major cities in the United States — Chicago, New York City, and Washington.
-.
-Libraries used: NumPy and pandas
-.
-Goal: Create an interactive experience.
-.
-Output: Generate statistical output based on the input from the user. 
+Tools: Jupyter Notebooks
+Libraries used: numpy, pandas, matplotlib
+
